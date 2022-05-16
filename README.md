@@ -1,4 +1,4 @@
-# Bitcoin_Price_Prediction
+# Bitcoin Price Prediction
 Tuning and Analysis of different regression models for Bitcoin Prediction
 
 - Download the ipynb file and the Dataset from the repository.
